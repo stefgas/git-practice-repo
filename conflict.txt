@@ -1,0 +1,4 @@
+# Conflict Resolution Practice
+
+This file will be modified to create merge conflicts.
+Initial content.
